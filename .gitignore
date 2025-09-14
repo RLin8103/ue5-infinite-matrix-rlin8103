@@ -1,0 +1,14 @@
+﻿Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db*
+.DS_Store
+Thumbs.db
+*_BuiltData.uasset
